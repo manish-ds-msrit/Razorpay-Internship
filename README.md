@@ -1,13 +1,15 @@
-## Razorpay – Software Development Engineer Intern
+## 🚀 Razorpay – Software Development Engineer Intern
 
-Duration: Jan 2025 – Aug 2025 | Location: Bengaluru
+📍 Bengaluru | 🗓️ Jan 2025 – Aug 2025
 
-Developed a real-time monitoring dashboard for 10+ microservices, improving system observability and reducing debugging time by 40%.
+💡 Key Highlights
 
-Resolved a P0 backend security flaw by implementing a safe deserialization wrapper, enhancing application resilience.
+🧭 Built a real-time monitoring dashboard for 10+ microservices, boosting system observability and reducing debugging time by 40%.
 
-Collaborated with cross-functional teams in a microservice-based architecture to optimize system latency and scalability.
+🛡️ Fixed a P0 backend security flaw by implementing a safe deserialization wrapper — strengthening application-level security and stability.
 
-Automated key debugging and monitoring workflows, improving developer productivity and CI/CD efficiency.
+⚙️ Collaborated across teams in a high-performance, microservice-based architecture to improve system latency and scalability.
 
-Gained hands-on experience in distributed systems, backend debugging, system performance tuning, and production-grade software delivery.
+🤖 Automated debugging and monitoring workflows, improving developer productivity and CI/CD pipeline efficiency.
+
+💻 Gained hands-on expertise in distributed systems, backend debugging, performance optimization, and production-grade software engineering.
